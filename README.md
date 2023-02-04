@@ -1,5 +1,5 @@
 # Miwok
-This is a self Diagnose health app for cute health issues.
+This app helps us to learn pronounce of another language with basic words. Here I am use english language to germany lang. . 
 
 
 ## LICENSE
