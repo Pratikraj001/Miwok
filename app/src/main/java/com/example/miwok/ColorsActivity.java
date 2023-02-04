@@ -70,7 +70,7 @@ public class ColorsActivity extends AppCompatActivity {
         // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
         // There should be a {@link ListView} with the view ID called list, which is declared in the
         //word_list.xml layout file.
-        ListView listView = (ListView) findViewById(R.id.color_list);
+        ListView listView =  findViewById(R.id.color_list);
         //GridView gridView = findViewById(R.id.list);
 
         // Make the {@link ListView} use the {@link ArrayAdapter} we created above, so that the
@@ -96,6 +96,7 @@ public class ColorsActivity extends AppCompatActivity {
 
                 // Create and setup the {@link MediaPlayer} for the audio resource associated
                 // with the current word
+
                 mMediaPlayer = MediaPlayer.create(ColorsActivity.this, word.getAudioResourceId());
 
                 // Start the audio file
