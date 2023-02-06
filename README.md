@@ -1,6 +1,7 @@
 # Miwok
-This app helps us to learn pronounce of another language with basic words. Here I am use english language to germany lang. . 
-
+• Fully responsive and interactive UI.
+• This app helps us to learn pronounce of another language with basic words. Here I am using English 
+words to learn the protonation of German words.
 
 ## LICENSE
 
