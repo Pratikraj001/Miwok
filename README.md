@@ -1,7 +1,17 @@
 # Miwok
-• Fully responsive and interactive UI.
-• This app helps us to learn pronounce of another language with basic words. Here I am using English 
-words to learn the protonation of German words.
+• Developed an Android app called Miwok that was designed to help users learn the pronunciation of basic words in another 
+language.
+
+• Designed an intuitive UI that allowed users to easily navigate the app and learn new words with ease.
+
+## Screenshots
+
+<img src = "https://github.com/Pratikraj001/Miwok/assets/78545924/88b6eff3-a6b2-49ae-90e1-6c278d02440a" width ="220">
+<img src = "https://github.com/Pratikraj001/Miwok/assets/78545924/767349da-8d9b-4186-88e7-e42d9088471c" width ="220">
+<img src = "https://github.com/Pratikraj001/Miwok/assets/78545924/7eed879d-4cdf-487a-9ccc-0204a6fbc811" width ="220">
+<img src = "https://github.com/Pratikraj001/Miwok/assets/78545924/01069a72-e2ff-497c-bf28-f13512717b9f" width ="220">
+<img src = "https://github.com/Pratikraj001/Miwok/assets/78545924/ba1cc28e-5ba9-4f11-a61c-12716bd7f6c3" width ="220">
+
 
 ## LICENSE
 
